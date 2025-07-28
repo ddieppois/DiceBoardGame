@@ -29,8 +29,6 @@ This function returns a `List<Integer>` of size `x`, where each element represen
 
 ---
 
-### 🧩 P: Best Map Collection for Ordered Integer Key/Value Pairs
-
 > **Prompt**:  
 > What's the best `Map` collection to store ordered key/value (integers) combos? I'll insert combos a huge number of times (multiple thousands). Mostly for insertion.
 
